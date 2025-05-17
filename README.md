@@ -38,3 +38,8 @@ Implement scoring system and lives
 Add sound effects for slicing
 
 Support for multiplayer mode using multiple hands
+
+
+Screenshots: 
+
+<img width="493" alt="Screenshot 2025-05-17 114337" src="https://github.com/user-attachments/assets/e6890b27-f051-455e-a4d2-67629c63ec17" />
